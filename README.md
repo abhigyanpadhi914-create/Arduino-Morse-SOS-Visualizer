@@ -13,9 +13,3 @@ An Arduino-based project that translates the **SOS** (... --- ...) Morse code si
 
 ## 💻 How It Works
 The code uses a modular function `blinkMorse()` to handle the timing for dots (200ms) and dashes (600ms). This ensures the signal follows international Morse code standards.
-
-## 🚀 Getting Started
-1. Clone this repo.
-2. Open `sos_blink.ino` in the Arduino IDE.
-3. Wire your breadboard according to the [provided schematic](./images/circuit.png).
-4. Upload and watch it blink!
