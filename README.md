@@ -9,7 +9,7 @@ An Arduino-based project that translates the **SOS** (... --- ...) Morse code si
 * **Connection:** Pin 13 (Primary Signal)
 
 ## 📸 Demo
-[Insert your screen recording or GIF here]
+I have provided a preview video for my project
 
 ## 💻 How It Works
 The code uses a modular function `blinkMorse()` to handle the timing for dots (200ms) and dashes (600ms). This ensures the signal follows international Morse code standards.
